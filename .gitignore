@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+Wiki/
+copy-to-server.sh
+build/
+debug/
